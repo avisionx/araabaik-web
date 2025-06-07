@@ -79,12 +79,11 @@ class CustomFooter extends HTMLElement {
                 </div>
                 <div class="small text-secondary font-weight-light">
                   <b>Phone:</b>
-                  <a href="tel:+918860146656" class="text-secondary">+91 8860146656</a>,
                   <a href="tel:+918178343571" class="text-secondary">+91 8178343571</a>
                 </div>
                 <div>
-                  <a href="mailto:araabaik.noreply@gmail.com" class="small text-secondary font-weight-light">
-                    <b>Email:</b> araabaik.noreply@gmail.com
+                  <a href="mailto:araabaik26@gmail.com" class="small text-secondary font-weight-light">
+                    <b>Email:</b> araabaik26@gmail.com
                   </a>
                 </div>
               </div>
