@@ -22,7 +22,7 @@ class CustomNavbar extends HTMLElement {
               <div class="d-flex align-items-center">
                 <a class="nav-item nav-link small ${textClass} mr-lg-3" href="/about">About</a>
                 <a class="nav-item nav-link small ${textClass} mr-lg-3" href="/contact">Contact</a>
-                <a class="nav-item nav-link small ${textClass} mr-lg-3" target="_blank" rel="noreferrer noopener" href="/static/Araabaik Menu.pdf">Menu</a>
+                <a class="nav-item nav-link small ${textClass} mr-lg-3" target="_blank" rel="noreferrer noopener" href="/static/Araabaik-Menu-V2.pdf">Menu</a>
               </div>
             </nav>
           </div>
@@ -91,7 +91,7 @@ class CustomFooter extends HTMLElement {
                 <p class="mb-2 text-dark font-alt h6">Quick Links</p>
                 <div><a href="/about" class="small text-secondary font-weight-light">About</a></div>
                 <div><a href="/contact" class="small text-secondary font-weight-light">Contact</a></div>
-                <div><a href="/static/Araabaik Menu.pdf" class="small text-secondary font-weight-light" target="_blank" rel="noreferrer noopener">Menu</a></div>
+                <div><a href="/static/Araabaik-Menu-V2.pdf" class="small text-secondary font-weight-light" target="_blank" rel="noreferrer noopener">Menu</a></div>
                 <div><a href="/privacy" class="small text-secondary font-weight-light">Privacy</a></div>
                 <div><a href="/terms" class="small text-secondary font-weight-light">Terms</a></div>
               </div>
